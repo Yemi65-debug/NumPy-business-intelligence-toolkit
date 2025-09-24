@@ -11,7 +11,7 @@ A comprehensive data analysis toolkit built with Python and NumPy for business i
 - NumPy
 - Business Intelligence Concepts
 ## Author
-[Your Name] - Aspiring Data Analyst
+Yemi Ogunleye -  Data Analyst
 ## Skills Demonstrated
 - Multi-dimensional array manipulation
 - Statistical analysis and insights
